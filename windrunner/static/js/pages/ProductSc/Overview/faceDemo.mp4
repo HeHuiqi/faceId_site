@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/faceDemo.71e55678.mp4";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/pages/ProductSc/Overview/faceDemo.mp4
+// module id = 776
+// module chunks = 0
